@@ -18,7 +18,7 @@ page = st.sidebar.radio(
 
 # Load corresponding page
 if page == "Home":
-    st.switch_page("pages/1_home.py")
+    st.switch_page("1_home.py")
 elif page == "Agentic vs Normal":
     st.switch_page("pages/2_Agentic_vs_Normal.py")
 elif page == "Agentic Advisor":
