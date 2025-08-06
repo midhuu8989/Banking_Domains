@@ -27,7 +27,7 @@ THRESHOLD = 10000
 
 # ========== PAGE SETUP ==========
 st.set_page_config(page_title="Agentic Compliance Monitor", layout="wide")
-st.title("🔍 Agentic AI Compliance Monitoring Dashboard")
+st.title("🔍 AI Agent Compliance")
 
 # ========== DATA INPUT ==========
 st.subheader("📥 Upload Transaction Data or Use Simulator")
