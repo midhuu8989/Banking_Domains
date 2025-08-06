@@ -7,7 +7,7 @@ st.markdown("Explore the power of Agentic AI through focused applications across
 
 st.markdown("---")
 
-st.subheader("🧠 Agentic vs Normal")
+st.subheader("🧠  Normal  vs Agentic Advisor")
 st.markdown("""
 Compare the capabilities of a traditional web application with an  AI Agent solution. Understand how agentic systems can reason, adapt, and operate autonomously to perform smarter decision-making.
 """)
