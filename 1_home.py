@@ -9,7 +9,7 @@ st.markdown("---")
 
 st.subheader("🧠 Agentic vs Normal")
 st.markdown("""
-Compare the capabilities of a traditional web app with an agentic AI-powered solution. Understand how agentic systems can reason, adapt, and operate autonomously to perform smarter decision-making.
+Compare the capabilities of a traditional web application with an  AI Agent solution. Understand how agentic systems can reason, adapt, and operate autonomously to perform smarter decision-making.
 """)
 
 st.subheader("🧑‍💼 Agentic Advisor")
