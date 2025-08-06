@@ -14,7 +14,7 @@ page = st.sidebar.radio(
     "Go to",
     [
         "Normal vs Agentic Advisor",        # maps to 2_Agentic_vs_Normal_Advisory_App.py
-        "Agentic Advisor",                  # maps to 3_Agentic_Advisor.py
+        "Advisor Agent",                  # maps to 3_Agentic_Advisor.py
         "Agentic vs Normal WebApp",         # maps to 4_Agentic_vs_Normal_Compliance.py
         "Compliance AI",                    # maps to 5_Compliance_AI.py
         "Loan Advisory"                     # maps to 6_loan_advisory.py
