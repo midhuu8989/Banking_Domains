@@ -1,0 +1,15 @@
+streamlit
+openai
+python-dotenv
+streamlit
+openai
+langchain
+python-dotenv
+pandas
+email-validator
+tqdm
+streamlit-chat
+pydantic
+requests
+streamlit-extras
+langchain_community
