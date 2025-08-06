@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.set_page_config(page_title="Agentic vs Normal Compliance App", layout="wide")
+st.set_page_config(page_title="AI Agent Compliance", layout="wide")
 st.title("🤖 Agentic AI vs 🧾 Normal Compliance System")
 
 st.markdown("""
